@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\SRC",
+    "\\backend\\SRC\\SCF.API",
+    "\\backend\\SRC\\SCF.API\\Controllers",
+    "\\backend\\SRC\\SCF.Infrastructure",
+    "\\backend\\SRC\\SCF.Infrastructure\\data",
+    "\\backend\\SRC\\SCF.Infrastructure\\Entities"
+  ],
+  "SelectedNode": "\\backend\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}
