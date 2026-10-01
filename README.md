@@ -524,3 +524,18 @@ Com o backend e frontend configurados, verifique se o sistema consegue:
 - [x] Exibir o resumo financeiro
 
 Após concluir essas etapas, o **Sistema de Controle Financeiro (SCF)** estará configurado para execução local.
+
+
+
+## 📄 Licença
+
+Este projeto é propriedade da **MORAIS DEV & TECH** e está protegido
+por uma licença de software proprietária.
+
+O uso, cópia, modificação, distribuição ou comercialização do código
+sem autorização prévia não é permitido.
+
+Consulte o arquivo [`LICENSE`](./LICENSE) para obter os termos
+completos da licença.
+
+© 2026 MORAIS DEV & TECH. Todos os direitos reservados.
