@@ -5,10 +5,12 @@
     "\\backend\\SRC",
     "\\backend\\SRC\\SCF.API",
     "\\backend\\SRC\\SCF.API\\Controllers",
-    "\\backend\\SRC\\SCF.Infrastructure",
+    "\\backend\\SRC\\SCF.Application",
+    "\\backend\\SRC\\SCF.Application\\DTOs",
     "\\backend\\SRC\\SCF.Infrastructure\\data",
-    "\\backend\\SRC\\SCF.Infrastructure\\Entities"
+    "\\backend\\SRC\\SCF.Infrastructure\\Entities",
+    "\\frontend"
   ],
-  "SelectedNode": "\\.gitnore",
+  "SelectedNode": "\\frontend\\Index.html",
   "PreviewInSolutionExplorer": false
 }

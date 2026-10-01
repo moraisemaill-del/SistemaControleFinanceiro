@@ -1,29 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\",
+  "WorkspaceRootPath": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\SCF.API.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\frontend\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\SCF.API.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\SRC\\SCF.API\\SCF.API.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\Controllers\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\frontend\\logo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\logo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\Controllers\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\SRC\\SCF.API\\Controllers\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\SRC\\SCF.Infrastructure\\data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\Controllers\\TransacoesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\Controllers\\TransacoesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\SRC\\SCF.API\\Controllers\\TransacoesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\Entities\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\Entities\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\SRC\\SCF.Infrastructure\\Entities\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\Entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\Entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\SRC\\SCF.Infrastructure\\Entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 181,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,78 +55,109 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "backend\\SRC\\SCF.Infrastructure\\data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\data\\AppDbContext.cs",
-              "RelativeToolTip": "backend\\SRC\\SCF.Infrastructure\\data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T14:42:38.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "transacao.cs",
-              "DocumentMoniker": "C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\Entities\\transacao.cs",
-              "RelativeDocumentMoniker": "backend\\SRC\\SCF.Infrastructure\\Entities\\transacao.cs",
-              "ToolTip": "C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\Entities\\transacao.cs",
-              "RelativeToolTip": "backend\\SRC\\SCF.Infrastructure\\Entities\\transacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T21:31:03.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "backend\\SRC\\SCF.API\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "backend\\SRC\\SCF.API\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T21:20:07.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TransacoesController.cs",
-              "DocumentMoniker": "C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\Controllers\\TransacoesController.cs",
-              "RelativeDocumentMoniker": "backend\\SRC\\SCF.API\\Controllers\\TransacoesController.cs",
-              "ToolTip": "C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\Controllers\\TransacoesController.cs",
-              "RelativeToolTip": "backend\\SRC\\SCF.API\\Controllers\\TransacoesController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T21:07:48.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "usuario.cs",
-              "DocumentMoniker": "C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\Entities\\usuario.cs",
-              "RelativeDocumentMoniker": "backend\\SRC\\SCF.Infrastructure\\Entities\\usuario.cs",
-              "ToolTip": "C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\Entities\\usuario.cs",
-              "RelativeToolTip": "backend\\SRC\\SCF.Infrastructure\\Entities\\usuario.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T20:37:17.075Z"
+              "Title": "logo.png",
+              "DocumentMoniker": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\frontend\\logo.png",
+              "RelativeDocumentMoniker": "frontend\\logo.png",
+              "ToolTip": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\frontend\\logo.png",
+              "RelativeToolTip": "frontend\\logo.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-01T14:59:15.735Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\frontend\\Index.html",
+              "RelativeDocumentMoniker": "frontend\\Index.html",
+              "ToolTip": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\frontend\\Index.html",
+              "RelativeToolTip": "frontend\\Index.html",
+              "ViewState": "AgIAABAHAAAAAAAAAAAAAJ0HAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-01T14:20:17.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SCF.API.http",
-              "DocumentMoniker": "C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\SCF.API.http",
+              "DocumentMoniker": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\SCF.API.http",
               "RelativeDocumentMoniker": "backend\\SRC\\SCF.API\\SCF.API.http",
-              "ToolTip": "C:\\Users\\jhon oliveira\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\SCF.API.http",
+              "ToolTip": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\SCF.API.http",
               "RelativeToolTip": "backend\\SRC\\SCF.API\\SCF.API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-09-28T20:11:38.464Z"
+              "WhenOpened": "2026-09-28T20:11:38.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "backend\\SRC\\SCF.API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "backend\\SRC\\SCF.API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:20:07.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransacoesController.cs",
+              "DocumentMoniker": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\Controllers\\TransacoesController.cs",
+              "RelativeDocumentMoniker": "backend\\SRC\\SCF.API\\Controllers\\TransacoesController.cs",
+              "ToolTip": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.API\\Controllers\\TransacoesController.cs",
+              "RelativeToolTip": "backend\\SRC\\SCF.API\\Controllers\\TransacoesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:07:48.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\Entities\\usuario.cs",
+              "RelativeDocumentMoniker": "backend\\SRC\\SCF.Infrastructure\\Entities\\usuario.cs",
+              "ToolTip": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\Entities\\usuario.cs",
+              "RelativeToolTip": "backend\\SRC\\SCF.Infrastructure\\Entities\\usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:37:17.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "transacao.cs",
+              "DocumentMoniker": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\Entities\\transacao.cs",
+              "RelativeDocumentMoniker": "backend\\SRC\\SCF.Infrastructure\\Entities\\transacao.cs",
+              "ToolTip": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\Entities\\transacao.cs",
+              "RelativeToolTip": "backend\\SRC\\SCF.Infrastructure\\Entities\\transacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:31:03.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\SRC\\SCF.Infrastructure\\data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jhon oliveira\\Desktop\\SistemaControleFinanceiro\\backend\\SRC\\SCF.Infrastructure\\data\\AppDbContext.cs",
+              "RelativeToolTip": "backend\\SRC\\SCF.Infrastructure\\data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T14:42:38.381Z",
+              "EditorCaption": ""
             }
           ]
         }
