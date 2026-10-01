@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SCF.API/SCF.API.csproj" />
+  <Project Path="SCF.Application/SCF.Application.csproj" />
+  <Project Path="SCF.Domain/SCF.Domain.csproj" />
+  <Project Path="SCF.Infrastructure/SCF.Infrastructure.csproj" />
+</Solution>

@@ -1,0 +1,51 @@
+@SCF_HostAddress = http://localhost:5039
+
+### 1. Cadastrar um novo Usuário (POST)
+POST {{SCF_HostAddress}}/api/usuarios
+Content-Type: application/json
+
+{
+  "nome": "Carlos Teste",
+  "email": "carlos@email.com",
+  "senha": "123456"
+}
+
+###
+
+### 2. Cadastrar uma Receita (POST)
+POST {{SCF_HostAddress}}/api/transacoes
+Content-Type: application/json
+
+{
+  "descricao": "Salário",
+  "valor": 3000.00,
+  "data": "2026-09-01T00:00:00",
+  "tipo": "Receita",
+  "usuarioId": 2
+}
+
+###
+
+### 3. Cadastrar uma Despesa (POST)
+POST {{SCF_HostAddress}}/api/transacoes
+Content-Type: application/json
+
+{
+  "descricao": "Supermercado",
+  "valor": 150.50,
+  "data": "2026-09-28T00:00:00",
+  "tipo": "Despesa",
+  "usuarioId": 2
+}
+
+###
+
+### 4. Listar todas as Transações do Usuário 2 (GET)
+GET {{SCF_HostAddress}}/api/transacoes/usuario/2
+Content-Type: application/json
+
+###
+
+### 5. Obter o Resumo Financeiro / Saldo do Usuário 2 (GET)
+GET {{SCF_HostAddress}}/api/transacoes/resumo/2
+Content-Type: application/json
