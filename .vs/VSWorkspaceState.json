@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\SRC",
+    "\\backend\\SRC\\SCF.API",
+    "\\backend\\SRC\\SCF.API\\Controllers",
+    "\\backend\\SRC\\SCF.Application",
+    "\\backend\\SRC\\SCF.Application\\DTOs",
+    "\\frontend"
+  ],
+  "PreviewInSolutionExplorer": false
+}
